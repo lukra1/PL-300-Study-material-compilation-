@@ -18,6 +18,7 @@ PL-300 Data Analyst Associate exam using Microsoft provided
 free resources.
  
 <cr>
+
 Passing the PL-300 exam earns you the 
 Microsoft Certified Power BI Data Analyst Associate title
  
