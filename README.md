@@ -1,8 +1,7 @@
-# PL-300-Study-material-compilation-
-This is a compilation of free  resources to learn
-Power BI and prepare for tge Data Analyst Associate exam 
- 
-What is the PL-300?
+# Power BI PL-300 Study material compilation
+This is a compilation of free resources to learn
+Power BI and prepare for the Data Analyst Associate exam 
+using Microsoft provided free resources 
  
 The PL-300 exam validates your ability to connect 
 to a variety of data sources, to prepare, model, clean,
@@ -74,16 +73,12 @@ schedule your exam
 You can take it online or at a test center, is a 40-50 questions and have 100 minutes to complete the test. Pass with 700 out of 1,000. Pearson Vue is the organization that manages the certification test.   
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/#schedule-exam
 
-join the power bi user group Power BI Women, women for women user group where their leader Deborah DeNisha Kelly Belinda Jackie and Lucrecia host monthly meetups with guest speakers, they maintain reference links to training resources, they host book clubs Belinda is leading the Python book club, Jackie host learnings and deep dives about excel and data transformations, lucrecia mentors about how to get up to speed with Power BI and Fabric,Deborah and DeNisha are hosting a series on AI copilot for power bi. so cool, register via Meetup app and check the fabric user group with more than 1,000 from around the word.
+Community
+join the power bi user group Power BI Women, women for women user groups
+monthly meetups with guest speakers, training resources, book clubs 
+mentorship and ao more.
+https://community.fabric.microsoft.com/t5/Power-BI-Women/gh-p/pbi_PowerBIWomen_usergroup
 
-more learning https://workout-wednesday.com/author/shannon4lbi-com/ 
-is another great resource to explore hosted by Shannon and Stephanie.
-
-this reference page is being updated often with useful links to make sure 
-the Power BI Women community can get the skills needed to study and get certified
-for free
-
-lucrecia Krause
 
 
 
