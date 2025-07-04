@@ -1,8 +1,8 @@
 # Power BI PL-300 Study material compilation
 Welcome to my page, my name is Lucrecia Krause,
-I'm a Sr. solutions architect ans technical project
-and program manager , with experience
-working on technology tranafirmations. Data,
+I'm a Sr. solutions architect and technical project
+and program manager, with years of experience
+leading technology transformations projecfs. Data,
 big data, business intelligence and AI are
 akills we need to stay competitive.
 I'm a mentor, international speaker and Microsoft
