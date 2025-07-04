@@ -1,11 +1,11 @@
 # Power BI PL-300 Study material compilation
-Welcome to my page, my name is Lucrecia Krause,
+Welcome to my mentorship resources page, my name is Lucrecia Krause,
 I'm a Sr. solutions architect and technical project
 and program manager, with years of experience
 leading technology transformations projecfs. Data,
 big data, business intelligence and AI are
 akills we need to stay competitive.
-<cr€
+<cr>
 I'm a mentor, international speaker and Microsoft
 MVP in data platform /Power BI. And user group leader
 motivating others to learn and achive more.
