@@ -29,53 +29,64 @@ PL-300 Exam page
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/
  <cr>
 
-Tool Download Power BI Desktop
-To get started with Power BI, you’ll need the Power BI Desktop app. It’s free and available from the Microsoft Store or as a direct download:
+Tool Download
 https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop
- <cr>
-Getting Started with Power BI
-New to Power BI? Microsoft offers a step-by-step tutorial to help you connect data, build reports, and create dashboards:
+<cr>
+
+Power BItutorial to help you connect data, build reports
 https://learn.microsoft.com/en-us/power-bi/fundamentals/service-get-started
-  <cr>
+
+<cr>
 Microsoft Virtual Training Days
 https://learn.microsoft.com/en-us/trainingdays/
-  <cr>
-Dashboard in a Day is a 8 hours hands on class:
-includes materials for you to be able to follow the instructor and practuce
+
+  <cr>
+Dashboard in a Day is a 8 hours hands on class
 https://learn.microsoft.com/en-us/training/paths/dashboard-in-a-day/
-  <cr>
+
+<cr>
+  
 Exam preparation resources
   <cr>
-Watch the Reactor Series hosted by Pam and Shannon 
+    
+Watch the Reactor Series
 Catch the “Get Certified” PL-300 Reactor Series an in-depth, 
 five-part livestream replay that walks you through each exam domain:
  <cr>
+ 
 https://aka.ms/pbi10/cert50
  <cr>
+ 
 https://powerbi.microsoft.com/en-us/blog/your-road-to-power-bi-certification-starts-here/
   <cr>
+  
 Watch Exam preparation videos 
 https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data
- 
-Review online exam guide Get the full breakdown of the exam structure,
-skills measured, and registration details and process
+
+  <cr>
+
+Review online exam guide Get the full breakdown of the exam structure
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/
- 
-Exam Sandbox:
+  <cr>
+
+Exam Sandbox
 Familiarize yourself with the exam interface using the official Exam Sandbox:
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/#exam-sandbox
- 
-Test your knowledge with official practice assessments:
+  <cr>
+
+Test your knowledge
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/#practice-for-the-exam
- 
-Exam discounts
+  <cr>
+
+check Exam discounts
 Save 50% with a discount Voucher attending the Reactor test initiative
 https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Q0FNUEFJR05fMTc0ODg4ODU0Mjg2Nw==
+ <cr>
+
  
 Student Discounts (if eligible): https://learn.microsoft.com/en-us/credentials/student-discounts/
  
-schedule your exam
-You can take it online or at a test center, is a 40-50 questions and have 100 minutes to complete the test. Pass with 700 out of 1,000. Pearson Vue is the organization that manages the certification test.   
+schedule your exam with Pearson Vue   
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/#schedule-exam
 
 Community
