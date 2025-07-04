@@ -6,7 +6,8 @@ leading technology transformations projecfs. Data,
 big data, business intelligence and AI are
 akills we need to stay competitive.
 I'm a mentor, international speaker and Microsoft
-MVP in data platform and Power BI.
+MVP in data platform /Power BI. And user group leader
+motivating others to learn and achive more.
 
 This is a compilation of free resources to guide mentees
 to get started learning Power BI and to prepare for the 
