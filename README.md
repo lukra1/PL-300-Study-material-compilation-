@@ -1,13 +1,15 @@
 # Power BI PL-300 Study material compilation
+Welcome to my page, my name is Lucrecia Krause,
+I'm a solutiona architect, with experience
+working on technology tranafirmations, data,
+big data, business intelligence and AI are
+akills we need to be competituve. 
+I'm a mentor abs speaker.
+
 This is a compilation of free resources to learn
-Power BI and prepare for the Data Analyst Associate exam 
-using Microsoft provided free resources 
+Power BI and prepare for the PL-300 Data Analyst 
+Associate exam using Microsoft provided free resources 
  
-The PL-300 exam validates your ability to connect 
-to a variety of data sources, to prepare, model, clean,
-transform, visualize, and analyze data using Microsoft 
-Power BI. It’s designed for professionals who want to 
-empower organizations with data-backed decisions. 
 <cr>
 Passing the exam earns you the Microsoft Certified: Power BI Data Analyst 
  
