@@ -8,7 +8,7 @@ to a variety of data sources, to prepare, model, clean,
 transform, visualize, and analyze data using Microsoft 
 Power BI. It’s designed for professionals who want to 
 empower organizations with data-backed decisions. 
-
+<cr>
 Passing the exam earns you the Microsoft Certified: Power BI Data Analyst 
  
 Self-paced online learning path
@@ -63,7 +63,7 @@ https://powerbi.microsoft.com/en-us/blog/your-road-to-power-bi-certification-sta
 Watch Exam preparation videos 
 https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data
 
-  <cr>
+<cr>
 
 Review online exam guide Get the full breakdown of the exam structure
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/
@@ -83,12 +83,14 @@ Save 50% with a discount Voucher attending the Reactor test initiative
 https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Q0FNUEFJR05fMTc0ODg4ODU0Mjg2Nw==
  <cr>
 
- 
-Student Discounts (if eligible): https://learn.microsoft.com/en-us/credentials/student-discounts/
- 
+Student Discounts (if eligible
+https://learn.microsoft.com/en-us/credentials/student-discounts/
+ <cr>
+
 schedule your exam with Pearson Vue   
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/#schedule-exam
 
+<cr>
 Community
 join the power bi user group Power BI Women, women for women user groups
 monthly meetups with guest speakers, training resources, book clubs 
