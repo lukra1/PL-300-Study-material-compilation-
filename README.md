@@ -15,40 +15,45 @@ Self-paced online learning path
  
 Start creating you learning profile
 https://learn.microsoft.com/en-us/training/support/learn-profile-manage
- 
+  <cr>
+
 PL-300 Learning  syllabus
 https://learn.microsoft.com/en-us/training/courses/pl-300t00#course-syllabus
- 
+  <cr>
+
 Exam Study Guide
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300
- 
+  <cr>
+  
 PL-300 Exam page 
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/
- 
+ <cr>
+
 Tool Download Power BI Desktop
 To get started with Power BI, you’ll need the Power BI Desktop app. It’s free and available from the Microsoft Store or as a direct download:
 https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop
- 
+ <cr>
 Getting Started with Power BI
 New to Power BI? Microsoft offers a step-by-step tutorial to help you connect data, build reports, and create dashboards:
 https://learn.microsoft.com/en-us/power-bi/fundamentals/service-get-started
- 
+  <cr>
 Microsoft Virtual Training Days
 https://learn.microsoft.com/en-us/trainingdays/
- 
+  <cr>
 Dashboard in a Day is a 8 hours hands on class:
 includes materials for you to be able to follow the instructor and practuce
 https://learn.microsoft.com/en-us/training/paths/dashboard-in-a-day/
- 
+  <cr>
 Exam preparation resources
- 
+  <cr>
 Watch the Reactor Series hosted by Pam and Shannon 
 Catch the “Get Certified” PL-300 Reactor Series an in-depth, 
 five-part livestream replay that walks you through each exam domain:
+ <cr>
 https://aka.ms/pbi10/cert50
-
+ <cr>
 https://powerbi.microsoft.com/en-us/blog/your-road-to-power-bi-certification-starts-here/
- 
+  <cr>
 Watch Exam preparation videos 
 https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data
  
