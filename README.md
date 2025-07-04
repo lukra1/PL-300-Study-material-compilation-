@@ -6,10 +6,12 @@ leading technology transformations projecfs. Data,
 big data, business intelligence and AI are
 akills we need to stay competitive.
 <cr>
+
 I'm a mentor, international speaker and Microsoft
 MVP in data platform /Power BI. And user group leader
 motivating others to learn and achive more.
 <cr>
+
 This is a compilation of free resources to guide mentees
 to get started learning Power BI and to prepare for the 
 PL-300 Data Analyst Associate exam using Microsoft provided
@@ -19,6 +21,7 @@ free resources.
 Passing the PL-300 exam earns you the 
 Microsoft Certified Power BI Data Analyst Associate title
  
+<cr>
 Self-paced online learning path
  
 Start creating you learning profile
