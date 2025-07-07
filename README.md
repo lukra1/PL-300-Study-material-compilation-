@@ -2,7 +2,7 @@
 Welcome to my mentorship resources page, my name is Lucrecia Krause,
 I'm a Sr. solutions architect and technical project
 and program manager, with years of experience
-leading technology transformations projecfs. Data,
+leading technology transformations projects. Data,
 big data, business intelligence and AI are
 akills we need to stay competitive.
 <cr>
