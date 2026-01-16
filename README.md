@@ -1,15 +1,20 @@
 # Power BI PL-300 Study material compilation
-by Lucrecia Krause Microsoft MVP Data Platform 
+by Lucrecia Krause 
+Microsoft MVP Data Platform 
 Power BI & Fabric 
 
 Welcome to the mentorship resources page.
-for the user group study groups references 
+for the user group /study groups references 
 #OrlandoPowerBI #PowerBIWomen #CommunityRocks
 
 This is a compilation of free resources 
 to get started learning Power BI, 
 data analysis and to prepare for the 
 PL-300 Data Analyst Associate exam.
+
+using learn.microsoft 
+kaggle 
+Alison learning
  
 <cr>
 
