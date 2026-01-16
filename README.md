@@ -99,6 +99,24 @@ monthly meetups with guest speakers, training resources, book clubs
 mentorship and more.
 https://community.fabric.microsoft.com/t5/Power-BI-Women/gh-p/pbi_PowerBIWomen_usergroup
 
+<cr>
+Alison learn another option to complement Power BI learning 
+
+<cr>
+It’s free just pay for diploma if what to but not required
+
+<cr>
+Introduction 
+https://alison.com/course/introduction-to-data-analytics-using-microsoft-power-bi
+
+<cr>
+Fundamentals 
+https://alison.com/course/fundamental-data-analysis-using-power-bi
+
+<cr>
+Advanced 
+https://alison.com/course/master-microsoft-power-bi
+
 
 
 
