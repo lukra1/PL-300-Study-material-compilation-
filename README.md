@@ -96,7 +96,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associ
 Community
 join the power bi user group Power BI Women, women for women user groups
 monthly meetups with guest speakers, training resources, book clubs 
-mentorship and ao more.
+mentorship and more.
 https://community.fabric.microsoft.com/t5/Power-BI-Women/gh-p/pbi_PowerBIWomen_usergroup
 
 
