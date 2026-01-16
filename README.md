@@ -1,21 +1,11 @@
 # Power BI PL-300 Study material compilation
-Welcome to my mentorship resources page, my name is Lucrecia Krause,
-I'm a Sr. solutions architect and technical project
-and program manager, with years of experience
-leading technology transformations projects. Data,
-big data, business intelligence and AI are
-akills we need to stay competitive.
-<cr>
+Welcome to the mentorship resources page.
 
-I'm a mentor, international speaker and Microsoft
-MVP in data platform /Power BI. And user group leader
-motivating others to learn and achive more.
-<cr>
-
-This is a compilation of free resources to guide mentees
-to get started learning Power BI and to prepare for the 
-PL-300 Data Analyst Associate exam using Microsoft provided
-free resources.
+This is a compilation of free resources will guide
+you to get started learning Power BI, data analysis 
+and all you nees to prepare for the 
+PL-300 Data Analyst Associate exam using 
+free Microsoft resources.
  
 <cr>
 
