@@ -35,7 +35,7 @@ Tool Download
 https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop
 <cr>
 
-Power BItutorial to help you connect data, build reports
+Power BI tutorial to help you connect data, build reports
 https://learn.microsoft.com/en-us/power-bi/fundamentals/service-get-started
 
 <cr>
