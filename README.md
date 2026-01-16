@@ -129,6 +129,14 @@ https://alison.com/course/master-microsoft-power-bi
 
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300
 
+<cr>
+
+datasets practice 
+
+<cr>
+
+https://www.kaggle.com/datasets
+
 
 
 
