@@ -1,4 +1,4 @@
-# Power BI PL-300 Study material compilation
+# User Group   "Study togehter PL-300 Study material compilation
 Welcome to the mentorship resources page.
 
 This is a compilation of free resources that will
