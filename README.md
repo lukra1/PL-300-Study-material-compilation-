@@ -1,4 +1,4 @@
-# User Group - study refernces "PL-300 Microsoft Certified Power BI Data Analyst Associate"
+# User Group - study references "PL-300 Microsoft Certified Power BI Data Analyst Associate"
 Business Use Cases to Solve Real Problems
 Welcome to the study group and mentorship resources page.
 
