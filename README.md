@@ -1,5 +1,15 @@
 # User Group - study refernces "PL-300 Microsoft Certified Power BI Data Analyst Associate"
+Business Use Cases to Solve Real Problems
 Welcome to the study group and mentorship resources page.
+
+My name is Lucrecia Krause, and I’m a Senior Program Manager in Process Improvement PMP and Lean Six Sigma Black Belt
+I study Computer Science, have a MBA, a Master in Big Data and Business Intelligence and PgD in Strategic Quality Management,
+with a strong passion for business intelligence, data, Power BI, and AI, and especially how organizations can leverage 
+these tools to work smarter and drive meaningful impact.
+
+I’m also a Microsoft MVP, Microsoft regional Community leader, and the leader of the Orlando Power BI & AI User Group of Central Florida
+Orlando, FL and Power BI Women. My mission is to bring knowledge, innovation, and practical skills to our community to empower individuals, 
+strengthen local businesses, and help transform Central Florida into a hub of data and AI excellence.
 
 This is a compilation of free resources that will
 you to get started learning Power BI, data analysis 
