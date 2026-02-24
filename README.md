@@ -1,12 +1,24 @@
 # User Group - study refernces "PL-300 Microsoft Certified Power BI Data Analyst Associate"
-Welcome to the mentorship resources page.
+Welcome to the study group and mentorship resources page.
 
 This is a compilation of free resources that will
 you to get started learning Power BI, data analysis 
-and all you need to prepare for the 
+AI and the business context to resolve business progblems.
+It is all you need to prepare for the 
 PL-300 Data Analyst Associate exam using 
 free Microsoft resources and other material to help you
-learn and prepare to pass the PL-300 exam
+learn and prepare to pass the PL-300 exam.
+Register to attend the weekly study calls with the Power BI & AI Central Florida, Orlando FL User group
+
+Orlando Power BI User Group – Microsoft Fabric Community
+Local community for Power BI and Microsoft Fabric enthusiasts in Central Florida / Orlando.
+Activities: Live speaking events, hands-on workshops, and networking sessions.
+Link: Microsoft Fabric Community – Orlando Power BI User Group https://community.fabric.microsoft.com/t5/Orlando-Power-BI-User-Group/gh-p/pbi_Orlando_usergroup
+
+Events and Registration Orlando Power BI User Group – Meetuphttps://www.meetup.com/orlando-power-bi-user-group/
+Description: Meetup-based group focused on real-world Power BI and AI use cases, tailored to Central Florida industries.
+Activities: In-person and virtual meetups, project showcases, and Q&A sessions.
+Link: Meetup – Orlando Power BI User Group https://www.meetup.com/orlando-power-bi-user-group/
  
 <cr>
 
@@ -32,7 +44,7 @@ PL-300 Exam page
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/
 <cr>
 
-Tool Download
+Power Tool Download
 https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop
 <cr>
 
@@ -101,14 +113,18 @@ https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associ
 <cr>
 Join the Community
 
-Monthly meetups with guest speakers, training resources, book clubs 
+Meetup with guest speakers, training resources, book clubs 
 mentorship and more.
-  
-join the power bi user group Power BI Women, women for women user groups
-https://community.fabric.microsoft.com/t5/Power-BI-Women/gh-p/pbi_PowerBIWomen_usergroup
 
-join the Orlando Power BI User group
-https://community.fabric.microsoft.com/t5/Orlando-Power-BI-User-Group/gh-p/pbi_Orlando_usergroup
+Orlando Power BI User Group – Microsoft Fabric Community
+Local community for Power BI and Microsoft Fabric enthusiasts in Central Florida / Orlando.
+Activities: Live speaking events, hands-on workshops, and networking sessions.
+Link: Microsoft Fabric Community – Orlando Power BI User Group https://community.fabric.microsoft.com/t5/Orlando-Power-BI-User-Group/gh-p/pbi_Orlando_usergroup
+
+Events and Registration Orlando Power BI User Group – Meetuphttps://www.meetup.com/orlando-power-bi-user-group/
+Description: Meetup-based group focused on real-world Power BI and AI use cases, tailored to Central Florida industries.
+Activities: In-person and virtual meetups, project showcases, and Q&A sessions.
+Link: Meetup – Orlando Power BI User Group https://www.meetup.com/orlando-power-bi-user-group/
 
 
 
