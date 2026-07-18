@@ -8,17 +8,17 @@ with a strong passion for business intelligence, data, Power BI, and AI, and esp
 these tools to work smarter and drive meaningful impact.
 
 I’m also a Microsoft MVP, Microsoft regional Community leader, and the leader of the Orlando Power BI & AI User Group of Central Florida
-Orlando, FL and Power BI Women. My mission is to bring knowledge, innovation, and practical skills to our community to empower individuals, 
+Orlando, FL and Co Leader for the Global Power BI Women. Authot and Speaker in Tech. My mission is to bring knowledge, innovation, and practical skills to our community to empower individuals, 
 strengthen local businesses, and help transform Central Florida into a hub of data and AI excellence.
 
-This is a compilation of free resources that will
+This is a compilation of free resources that will guide 
 you to get started learning Power BI, data analysis 
-AI and the business context to resolve business progblems.
-It is all you need to prepare for the 
+AI and the business context to resolve business problems.
+It is free resources to help you learn and prepare for the 
 PL-300 Data Analyst Associate exam using 
 free Microsoft resources and other material to help you
-learn and prepare to pass the PL-300 exam.
-Register to attend the weekly study calls with the Power BI & AI Central Florida, Orlando FL User group
+study to pass the PL-300 exam.
+Register to attend the study calls with the Power BI & AI Central Florida, Orlando FL User group
 
 Orlando Power BI User Group – Microsoft Fabric Community
 Local community for Power BI and Microsoft Fabric enthusiasts in Central Florida / Orlando.
