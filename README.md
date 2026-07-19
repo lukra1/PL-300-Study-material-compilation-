@@ -8,7 +8,7 @@ with a strong passion for business intelligence, data, Power BI, and AI, and esp
 these tools to work smarter and drive meaningful impact.
 
 I’m also a Microsoft MVP, Microsoft regional Community leader, and the leader of the Orlando Power BI & AI User Group of Central Florida
-Orlando, FL and Co Leader for the Global Power BI Women. Authot and Speaker in Tech. My mission is to bring knowledge, innovation, and practical skills to our community to empower individuals, 
+Orlando, FL, Co Leader for the Global Power BI Women, mentor, Author and Speaker in data and business intelligence . My mission is to bring knowledge, innovation, and practical skills to our community to empower individuals, 
 strengthen local businesses, and help transform Central Florida into a hub of data and AI excellence.
 
 This is a compilation of free resources that will guide 
